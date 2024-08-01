@@ -1,1 +1,1 @@
-"# student_management" 
+"# hibakhaliq.student_management" 
